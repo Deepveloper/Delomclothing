@@ -1,6 +1,7 @@
 body{margin:auto 0; 
 	background-image: url(p2.jpg);
-	background-size:25em}
+	background-size:20em;
+	max-width: 100%}
 
 	h1{font-family:Brush Script MT;
 font-stretch: ultra-condensed;
